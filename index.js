@@ -1,12 +1,3 @@
-import { initializeApp } from "https://www.gstatic.com/firebasejs/12.8.0/firebase-app.js"
-
-const firebaseConfig = {
-
-}
-
-const app = initializeApp(firebaseConfig)
-
-console.log(app)
 
 let myLeads = []
 const inputEl = document.getElementById("input-el")
